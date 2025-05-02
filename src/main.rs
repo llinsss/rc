@@ -5,3 +5,6 @@ struct Todo {
     status: String,
 
 }
+fn load_from_file(path : &str) {
+    
+}
